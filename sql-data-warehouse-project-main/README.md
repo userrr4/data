@@ -1,8 +1,7 @@
 # Projet Data Warehouse
 
 Bienvenue dans le dépôt du **Projet Data Warehouse** ! 🚀  
-Ce projet démontre une solution complète d'entreposage de données et d'analytique, depuis la construction d'un entrepôt de données jusqu'à la génération d'insights exploitables. Conçu comme un projet de portfolio, il met en évidence les meilleures pratiques de l'industrie en matière d'ingénierie des données et d'analytique.
-
+Ce projet démontre une solution complète d'entreposage de données et d'analytique, depuis la construction d'un entrepôt de données jusqu'à la génération d'insights exploitables. 
 ---
 ## 🏗️ Architecture des Données
 
