@@ -112,5 +112,4 @@ powerbi-plantco-performance/
 * Conception d’un rapport professionnel de bout en bout
 
 
-```
-```
+
